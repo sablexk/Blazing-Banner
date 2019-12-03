@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dc7475bc7aed204d81a135c5f8d660a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MarthRunRight: {fileID: -1110934421414768953, guid: 6af38add89123a74f8b2d31e0cbe8791,
+      type: 3}
+  - MarthRunLeft: {fileID: -7815782013318700219, guid: 7cb575ae5f9026e41afec71758d8c427,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
